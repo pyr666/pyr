@@ -1,0 +1,147 @@
+*{
+	padding:0px;
+	margin:0px;}
+body{
+	font-family:"微软雅黑";}
+.box{
+	width:100%;
+	height:1000px;
+	background:no-repeat center center fixed;
+	overflow:hidden;}
+.box .text h2{
+	font-weight:400px;
+	font-size:36px;
+	color:#00FF99;
+	line-height:1.6em;}
+.box .text p{
+	font-size:16px;
+	color:#33CC00;
+	line-height:1.8em;
+	margin-top:25px;}
+.box .text a{
+	font-size:16px;
+	color:#0000FF;
+	text-decoration:none;}
+.box1 .text{
+	margin-left:20%;
+	margin-top:20%;}
+.box .text .price{
+	color:#339999;
+	font-size:14px;
+	magin-top:30px;
+	margin-bottom:20px;}
+.box .text .price span{
+	font-size:36px;}
+	
+.box2 .text1{
+	width:90%;
+	height:20%;
+	margin:0px auto;}
+.box2 .text1 .GB1{
+	color:#339999;
+	font-size:14px;
+	float:left;
+	text-align:center;
+	width:30%;
+	margin-top:100px;}
+.box2 .text1 .GB2{
+	color:#339999;
+	font-size:14px;
+	float:left;
+	text-align:center;
+	width:30%;
+	margin-top:100px;}
+.box2 .text1 .GB3{
+	color:#339999;
+	font-size:14px;
+	float:left;
+	text-align:center;
+	width:30%;
+	margin-top:100px;}
+.box2 .text1 .GB1 span{
+	font-size:36px;
+	margin-top:-80px;}
+.box2 .text1 .GB2 span{
+	font-size:36px;
+	margin-top:-80px;}
+.box2 .text1 .GB3 span{
+	font-size:36px;
+	margin-top:-80px;}
+.box2 .text p{
+	font-size:16px;
+	color:#33CC00;
+	line-height:1.8em;
+	margin-top:25px;
+	margin-left:-140px;}
+.box2 .text a{
+	margin-left:130px;}
+.box2 .text{
+	margin-left:70%;}
+.box .text1 .GB1{
+	color:#339999;
+	font-size:14px;
+	magin-top:30px;
+	margin-bottom:20px;}
+.box .text1 .GB2{
+	color:#339999;
+	font-size:14px;
+	magin-top:30px;
+	margin-bottom:20px;}
+.box .text1 .GB3{
+	color:#339999;
+	font-size:14px;
+	magin-top:30px;
+	margin-bottom:20px;}
+.box3 .text{
+	height:30%;
+	width:50%;
+	margin:0px auto;
+	margin-top:30%;
+	text-align:center;}
+.box3 .text .h2{
+	text-align:center;
+	width:200px;
+	height:100px;}
+.box3 .text .p{
+	width:200px;
+	height:100px;
+	text-align:center;}
+.box3 .text .a{
+	width:200px;
+	height:50px;
+	text-align:center;}
+.box4 .text{
+	height:30%;
+	width:50%;
+	margin:0px auto;
+	margin-top:30%;
+	text-align:center;}
+.box6 .text{
+	height:30%;
+	width:50%;
+	margin:0px auto;
+	margin-top:30%;
+	text-align:center;}
+.box7 .text{
+	height:30%;
+	width:50%;
+	margin:0px auto;
+	margin-top:30%;
+	text-align:center;}
+.box5 .text{
+	margin-left:20%;
+	margin-top:20%;}
+.box1{
+	background-image:url(../../img/bg.png);}
+.box2{
+	background-image:url(../../img/gulp.jpg);}
+.box3{
+	background-image:url(../../img/h-8.jpg);}
+.box4{
+	background:#00CC99 url(../../img/h-12.jpg);}
+.box5{
+	background-image:url(../../img/h-13.jpg);}
+.box6{
+	background-image:url(../../img/h-21.jpg);}
+.box7{
+	background-image:url(../../img/h-24.jpg);}
